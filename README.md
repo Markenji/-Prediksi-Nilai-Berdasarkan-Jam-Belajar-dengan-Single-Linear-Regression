@@ -1,5 +1,7 @@
 # Prediksi Nilai Berdasarkan Jam Belajar Menggunakan Single Linear Regression
 
+![Prediction Model](https://github.com/Markenji/-Prediksi-Nilai-Berdasarkan-Jam-Belajar-dengan-Single-Linear-Regression/blob/main/Image_SLR/gambar1.png)
+
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk memprediksi nilai siswa berdasarkan jumlah jam belajar mereka menggunakan metode regresi linier sederhana. Regresi linier sederhana adalah teknik statistik yang digunakan untuk memodelkan hubungan linier antara dua variabel: variabel independen (jam belajar) dan variabel dependen (nilai siswa). Model ini menghasilkan garis regresi yang merepresentasikan hubungan tersebut.
